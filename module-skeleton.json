@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-landing-pages-and-funnels-flutter",
+  "capabilityKey": "liberusoftware/module-crm-landing-pages-and-funnels",
+  "presentation": "mobile-flutter",
+  "package": "module_crm_landing_pages_and_funnels_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/crm/nextjs/landing-pages-and-funnels.md",
+  "presentationPlan": "projects/crm/flutter/landing-pages-and-funnels.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
